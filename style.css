@@ -1,0 +1,14 @@
+/* @media screen and (min-width: 0px) and (max-width:1023px) {
+    .col-lg-2{ display: none; }   /* hide it on larger screens */
+  } */
+
+  /* @media screen and (min-width:1700px){
+    #myNavContent{ display:none;}
+    
+  } */
+
+  .nav-item{
+    display: flex;
+    
+  }
+  
